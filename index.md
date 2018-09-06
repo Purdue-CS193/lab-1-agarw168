@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Vanshika's first CS193 Lab
+
+Some things I like about the CS 193 class are:
+-it is managed completely by undergraduate students
+-it is a relaxed environment
+-the TAs are very understanding and helpful
+-the lab is fun
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
